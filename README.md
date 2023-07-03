@@ -16,17 +16,13 @@ https://courseregistrationsite.azurewebsites.net/ (as of July 2023, it is still 
 
 C# (w/ HTML and CSS)
 
-### Frameworks Used:
+### Frameworks and Libraries:
 
 ASP.NET
 
 ### Hosting:
 
 Azure
-
-### Frameworks and Libraries:
-
-ASP.NET
 
 ### Description:
 
